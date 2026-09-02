@@ -17,7 +17,7 @@
 Os arquivos de modelagem e arquitetura do sistema estão organizados na pasta `/diagramas`.
 
 *   **[Diagrama de Casos de Uso](link):** Mostra as interações dos usuários com o sistema.
-*   **[Diagrama de Arquitetura](link_aqui):** Representa a integração com o Firebase.
+*   **[Diagrama de Arquitetura](https://github.com/allanagimenez15/Escambook/blob/main/Escambook%20Diagram.drawio.png):** Representa a integração com o Firebase.
 
 ---
 
